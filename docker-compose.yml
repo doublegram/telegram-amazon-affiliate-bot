@@ -1,0 +1,21 @@
+services:
+  amazonbot:
+    build: .
+    container_name: amazonbot
+    restart: unless-stopped
+    env_file:
+      - .env
+    networks:
+      - amazonbot_network
+    
+    # Healthcheck per monitorare lo stato del bot
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('https://api.telegram.org', timeout=5); exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  amazonbot_network:
+    driver: bridge
