@@ -12,7 +12,7 @@
 
 *Transform your affiliate marketing with automated, AI-powered content generation and multi-channel publishing*
 
-[🚀 Get License Now](https://doublegram.com/marketplace/affiliate) • [📚 Documentation](#installation) • [💬 Support](#support)
+[🚀 Get License Now](https://doublegram.com/marketplace/affiliate) • [💬 Support](#support)
 
 </div>
 
@@ -97,12 +97,6 @@
 - 💰 **TON Price**: €67 (instead of €79)
 - 📞 **How to pay**: Contact [@doublegram_official](https://t.me/doublegram_official)
 - ⚡ **Fast processing**: License delivered within 24h
-
-**ROI Calculation:**
-- Competitors: €180-600/year
-- Our solution: €79 once (€67 with TON)
-- **Break-even: 2-6 months**
-- **5-year savings: €900-2,900**
 
 ### 🎯 **Perfect For:**
 - 🎪 **Affiliate Marketers**: Scale your Amazon promotions
@@ -212,16 +206,6 @@ python bot.py
 
 ---
 
-## 🔐 **License & Security**
-
-### 📜 **Licensing**
-This bot operates on a **hybrid model**:
-- 🟢 **Source Code**: Open source (viewable on GitHub)
-- 🔐 **Service Access**: Requires valid license from Doublegram
-- 💼 **Commercial Use**: Included with lifetime license
-
----
-
 ## 🚀 **Get Started Today**
 
 ### 🎯 **Ready to Transform Your Affiliate Marketing?**
@@ -234,8 +218,6 @@ This bot operates on a **hybrid model**:
 ### 🎪 **Special Launch Offer**
 - ✅ Lifetime license for €79 (normally €149)
 - 🪙 **TON Payment**: Only €67 (15% discount!)
-- ✅ Free setup consultation call
-- ✅ Bonus: Advanced AI prompts pack
 
 [🔗 **GET YOUR LICENSE NOW**](https://doublegram.com/marketplace/affiliate)
 
