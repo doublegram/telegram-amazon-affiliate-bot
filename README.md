@@ -16,7 +16,6 @@
 
 </div>
 ---
-
 ## ✨ **Why This Bot Changes Everything**
 
 ### 🎯 **The Problem with Current Solutions:**
