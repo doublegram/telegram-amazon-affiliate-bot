@@ -15,6 +15,7 @@
 [🚀 Get License Now](https://doublegram.com/marketplace/affiliate) • [💬 Support](#support)
 
 </div>
+
 ---
 ## ✨ **Why This Bot Changes Everything**
 
